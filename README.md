@@ -54,10 +54,6 @@ Aquí se proporcionarán detalles sobre el proceso de desarrollo del código, in
     <title>U Guitars</title>
 </head>
 <body>
-    
-
-
-
 <div class="bg-white">
     <div class="relative overflow-hidden">
       <header class="relative">
@@ -67,7 +63,7 @@ Aquí se proporcionarán detalles sobre el proceso de desarrollo del código, in
               <div class="flex items-center justify-between w-full md:w-auto">
                 
                 <div class="-mr-2 flex items-center md:hidden">
-                  <button type="button" class="bg-gray-900 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-white" aria-expanded="false">
+                  <button type="button" class="bg-gray-900 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus-ring-inset focus:ring- white" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
                     <!-- Heroicon name: outline/menu -->
                     <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -82,8 +78,7 @@ Aquí se proporcionarán detalles sobre el proceso de desarrollo del código, in
                 <a href="https://landingpagemarcablanca.netlify.app/?#" class="text-base font-medium text-white hover:text-gray-300">¿Quiénes somos?</a>
   
                 <a href="https://landingpagemarcablanca.netlify.app/?#" class="text-base font-medium text-white hover:text-gray-300">Contacto</a>
-  
-              </div>
+                </div>
             </div>
             <div class="hidden md:flex md:items-center md:space-x-6">
               <a href="https://landingpagemarcablanca.netlify.app/?#" class="text-base font-medium text-white hover:text-gray-300">
@@ -336,8 +331,7 @@ Aquí se proporcionarán detalles sobre el proceso de desarrollo del código, in
             </div>
           </div>
         </div>
-      
-      <footer class="bg-gray-50" aria-labelledby="footerHeading">
+       <footer class="bg-gray-50" aria-labelledby="footerHeading">
         <h2 id="footerHeading" class="sr-only">Footer</h2>
         <div class="max-w-md mx-auto pt-12 px-4 sm:max-w-7xl sm:px-6 lg:pt-16 lg:px-8">
           <div class="xl:grid xl:grid-cols-3 xl:gap-8">
