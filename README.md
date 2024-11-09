@@ -32,7 +32,10 @@ Se detallan las consideraciones de diseño y usabilidad de la Landing Page, incl
 - **Paleta de Colores**: Se utilizaron conceptos de psicología del color y diseño gráfico para internet a fin de generar una experiencia de usuario inigualable.
 - **Tipografía**: Se incorporaron estilos vanguardista a través de tailwingcss para generar una mejor experiencia del lectura a los visitantes.
 - **Imágenes y Multimedia**: Las imágenes han sido incorporados a través del serevicio de Freepik.
+
 A continuación se presenta en imágen la representación de la Langing Page:
+
+![]()
 
 ## Tecnologías Empleadas
 En esta sección, se listarán y describirán brevemente las tecnologías utilizadas para desarrollar la landing page, como HTML, CSS, JavaScript, frameworks, librerías, etc.
