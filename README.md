@@ -18,11 +18,11 @@ En este proyecto, cada sección de la página está pensada para transmitir el m
 ## Estructura de la Landing Page
 En esta sección se describe la estructura general de la Landing Page, incluyendo las diferentes secciones y su propósito. Por ejemplo:
 
-Header: Contiene el menú horizontal y un botón de inicio de sesión.
-Sección info: Una zona de ofertas, formulario de contacto para envío de artículos exclusivos e imagen alusiva a la tienda.
-Sección productos: Visualización tipo tarjetas de los últimos productos en la tienda.
-Sección noticias y contacto: Invitación a los clientes para continuar en contacto en caso de algún requerimiento.
-Footer: Las redes sociales, mapa del sitio  y Copyright
+- **Header**: Contiene el menú horizontal y un botón de inicio de sesión.
+- **Sección info**: Una zona de ofertas, formulario de contacto para envío de artículos exclusivos e imagen alusiva a la tienda.
+- **Sección productos**: Visualización tipo tarjetas de los últimos productos en la tienda.
+- **Sección noticias y contacto**: Invitación a los clientes para continuar en contacto en caso de algún requerimiento.
+- **Footer**: Las redes sociales, mapa del sitio  y Copyright
 
 
 ## Visualización
