@@ -38,7 +38,7 @@ A continuación se presenta en imágen la representación de la Langing Page:
 ![](https://github.com/monicarias/Landing-page/blob/main/Prototipo.jpg?raw=true)
 
 ## Tecnologías Empleadas
-En esta sección, se listarán y describirán brevemente las tecnologías utilizadas para desarrollar la landing page, como HTML, CSS, JavaScript, frameworks, librerías, etc.
+La principal tecnología empleada es tailwingcss, este framework permite construir interfaces de usuario de manera rápida y eficiente utilizando una metodología de "utility-first". En lugar de escribir código CSS personalizado para cada componente, Tailwind ofrece una amplia gama de clases predefinidas que se pueden aplicar directamente en el HTML para estilizar elementos. Estas clases están diseñadas para controlar aspectos como el espaciado, el tamaño, los colores, la tipografía y otros estilos visuales, lo que facilita la creación de diseños consistentes y totalmente personalizables sin necesidad de escribir CSS desde cero. Además, Tailwind permite una fácil personalización y escalabilidad, ya que las clases son modulares y pueden adaptarse a proyectos de cualquier tamaño.
 
 ## Codificación
 Aquí se proporcionarán detalles sobre el proceso de desarrollo del código, incluyendo estructuras básicas, componentes y funcionalidades clave implementadas en la landing page.
