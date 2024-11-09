@@ -16,7 +16,14 @@ Este proyecto web tiene como objetivo desarrollar una landing page optimizada y 
 En este proyecto, cada sección de la página está pensada para transmitir el mensaje principal de la marca y sus beneficios, utilizando una estructura clara y un diseño que fomente la navegación intuitiva. El resultado será una landing page funcional y persuasiva, lista para impulsar los objetivos de marketing y atraer a la audiencia correcta.
 
 ## Estructura de la Landing Page
-Aquí se detallará la organización de los elementos principales de la página, incluyendo secciones como encabezado, contenido principal, llamadas a la acción, pie de página, entre otros.
+En esta sección se describe la estructura general de la Landing Page, incluyendo las diferentes secciones y su propósito. Por ejemplo:
+
+Header: Contiene el menú horizontal y un botón de inicio de sesión.
+Sección info: Una zona de ofertas, formulario de contacto para envío de artículos exclusivos e imagen alusiva a la tienda.
+Sección productos: Visualización tipo tarjetas de los últimos productos en la tienda.
+Sección noticias y contacto: Invitación a los clientes para continuar en contacto en caso de algún requerimiento.
+Footer: Las redes sociales, mapa del sitio  y Copyright
+
 
 ## Visualización
 Se incluirán capturas de pantalla o enlaces que permitan visualizar el diseño de la landing page, y se explicará cómo los usuarios pueden interactuar con los elementos de la misma.
