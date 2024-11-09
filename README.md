@@ -35,7 +35,7 @@ Se detallan las consideraciones de diseño y usabilidad de la Landing Page, incl
 
 A continuación se presenta en imágen la representación de la Langing Page:
 
-![]()
+![](https://github.com/monicarias/Landing-page/blob/main/Prototipo.jpg?raw=true)
 
 ## Tecnologías Empleadas
 En esta sección, se listarán y describirán brevemente las tecnologías utilizadas para desarrollar la landing page, como HTML, CSS, JavaScript, frameworks, librerías, etc.
