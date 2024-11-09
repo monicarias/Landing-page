@@ -26,7 +26,13 @@ En esta sección se describe la estructura general de la Landing Page, incluyend
 
 
 ## Visualización
-Se incluirán capturas de pantalla o enlaces que permitan visualizar el diseño de la landing page, y se explicará cómo los usuarios pueden interactuar con los elementos de la misma.
+Se detallan las consideraciones de diseño y usabilidad de la Landing Page, incluyendo aspectos como:
+
+- **Diseño Responsivo**: La Landing Page se adaptada a diferentes dispositivos móviles facilitando su visualización.
+- **Paleta de Colores**: Se utilizaron conceptos de psicología del color y diseño gráfico para internet a fin de generar una experiencia de usuario inigualable.
+- **Tipografía**: Se incorporaron estilos vanguardista a través de tailwingcss para generar una mejor experiencia del lectura a los visitantes.
+- **Imágenes y Multimedia**: Las imágenes han sido incorporados a través del serevicio de Freepik.
+A continuación se presenta en imágen la representación de la Langing Page:
 
 ## Tecnologías Empleadas
 En esta sección, se listarán y describirán brevemente las tecnologías utilizadas para desarrollar la landing page, como HTML, CSS, JavaScript, frameworks, librerías, etc.
