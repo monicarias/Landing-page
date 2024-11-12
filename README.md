@@ -14,7 +14,6 @@
 3. [Visualización](#visualización)
 4. [Tecnologías Empleadas](#tecnologías-empleadas)
 5. [Codificación](#codificación)
-6. [Despliegue](#despliegue)
 
 ---
 
@@ -119,8 +118,4 @@ Aquí se proporcionarán algunos aldetalles sobre el proceso de desarrollo del c
 
 ```
 
-## Despliegue
-Finalmente, se explicará el proceso de despliegue del proyecto, incluyendo plataformas empleadas (por ejemplo, GitHub Pages, Vercel, Netlify) y pasos necesarios para realizar el despliegue exitoso de la página.
-
----
 
