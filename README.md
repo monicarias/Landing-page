@@ -1,6 +1,6 @@
 <h1 align="center">LANDING PAGE</h1>
 
-<p align="center">Una aplicación web sencilla para crear, leer, actualizar y eliminar datos, diseñada con un enfoque moderno y fácil de usar.</p>
+<p align="center">Landing page desarrollada en html y css con estilos moderno, ejemplo clásico para que aprendaás a desarrollarla</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MIT">
