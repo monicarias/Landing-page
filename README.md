@@ -1,4 +1,12 @@
-# Documentación del Proyecto de Landing Page
+<h1 align="center">LANDING PAGE</h1>
+
+<p align="center">Una aplicación web sencilla para crear, leer, actualizar y eliminar datos, diseñada con un enfoque moderno y fácil de usar.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MIT">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue" alt="Versión">
+  <img src="https://img.shields.io/badge/contribuidores-2-brightgreen" alt="Contribuidores">
+</p>
 
 ## Índice de Contenido
 1. [Introducción](#introducción)
